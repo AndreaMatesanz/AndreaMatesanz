@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreaMatesanz
 - 👀 I’m interested in finding inspiration on how to solve difficult/intermediate obstacles when coding. 
-- 🌱 I’m currently pursuing a Master's Degree in Data Science and Big Data. I am learning how to process and manage data on RStudio, Python and SQL.
+- 🌱 I’m currently working towards becoming a SDE.
 - 💞️ I’m looking to collaborate on any Github projects that could help me improve my programming skills.
 
 <!---
